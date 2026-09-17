@@ -1,0 +1,12 @@
+{
+  "manifestVersion": "1.0",
+  "registry": "otm-schema-registry",
+  "versions": [
+    {
+      "version": "26A",
+      "path": "schemas/26a/otm-schema.json",
+      "schemaVersion": "1.0",
+      "status": "available"
+    }
+  ]
+}
