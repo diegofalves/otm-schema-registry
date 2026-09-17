@@ -1,0 +1,2 @@
+# Private tooling that must never be published to this public registry.
+/tampermonkey/
